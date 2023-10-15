@@ -1,2 +1,1 @@
-# Solana-candy-machine-ui
-Mint your own NFT using solana chain 
+# Metaplex Candy Machine Reference UI
